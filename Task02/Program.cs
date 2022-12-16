@@ -33,3 +33,7 @@ else if (number == 7)
 {
     Console.WriteLine("День недели - Воскресенье");
 }
+else
+{
+    Console.WriteLine("Проверьте введенные данные");
+}
